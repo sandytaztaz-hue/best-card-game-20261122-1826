@@ -1,8 +1,8 @@
 # TIDEBREAK — Duel of the Deep
 
 [![make.fun](https://make.fun/badge/best-card-game-20261122-1826.svg)](https://make.fun/c/best-card-game-20261122-1826)
-[![rank](https://make.fun/badge/best-card-game-20261122-1826/sandytaztaz-hue/tidebreak-card-game/rank.svg)](https://make.fun/c/best-card-game-20261122-1826)
-[![reward](https://make.fun/badge/best-card-game-20261122-1826/sandytaztaz-hue/tidebreak-card-game/reward.svg)](https://make.fun/c/best-card-game-20261122-1826)
+[![rank](https://make.fun/badge/best-card-game-20261122-1826/sandytaztaz-hue/best-card-game-20261122-1826/rank.svg)](https://make.fun/c/best-card-game-20261122-1826)
+[![reward](https://make.fun/badge/best-card-game-20261122-1826/sandytaztaz-hue/best-card-game-20261122-1826/reward.svg)](https://make.fun/c/best-card-game-20261122-1826)
 
 An original 1v1 card battler set in a bright underwater kingdom. You are the
 Tidekeeper, duelling **Queen Morvain of the Abyssal Court** across three lanes —
